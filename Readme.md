@@ -2,7 +2,9 @@
 
 ![Logo](Media/Logo.png)
 
-Modular stands and organization system, designed around the Gridfinity base system.
+ - Modular stands and organization system, designed around the Gridfinity base system.
+   
+    - Note: This system is designed primarily for mini and portable music gear (synths, grooveboxes, mixers, and utility devices). It is not recommended for full-size instruments or heavy equipment, as the stands and Gridfinity bases may not provide sufficient support.
 
 ## Overview
 
@@ -62,9 +64,12 @@ Submitted designs will be reviewed and added to the repository periodically.
 
 ## Disclaimer
 
-I am not a professional 3D designer; these designs are a hobbyist effort.  
-I cannot provide troubleshooting for 3D prints.  
-Additionally, due to using a free Shapr3D license, I am unable to export `.STEP` files for further modification.
+  - I am not a professional 3D designer; these designs are a hobbyist effort.  
+  - I cannot provide troubleshooting for 3D prints.
+  - Additionally, due to using a free Shapr3D license, I am unable to export `.STEP` files for further modification.
+  - **Use at your own risk:** These stands are designed for mini and portable music gear.
+    - Full-size or heavy equipment may cause the stands to fail. The creator(s) is not responsible for any damage or injury resulting from use.
+
 
 
 
