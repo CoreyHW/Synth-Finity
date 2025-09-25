@@ -11,6 +11,8 @@ Files are organized into folders:
 - `Stands` – Synth, groovebox, and mixer stands  
 - `Utility` – Cable guides and organizational accessories  
 
+![Preview of SynthFinity stands](Preview.jpeg)
+
 ## Usage
 
 1. Print the 3MF files using your preferred 3D printer.  
@@ -33,3 +35,4 @@ All contributions must comply with the CC BY-NC 4.0 license.
 I am not a professional 3D designer; these designs are a hobbyist effort.  
 I cannot provide troubleshooting for 3D prints.  
 Additionally, due to using a free Shapr3D license, I am unable to export `.STEP` files for further modification.
+
