@@ -40,12 +40,16 @@ All contributions must comply with the **CC BY-NC 4.0 license**:
 
 Submitted designs will be reviewed and added to the repository periodically.
 
+## Resources 
+- Gridfinity Unofficial Wiki: https://gridfinity.xyz/
+- Gridfinity Generator: https://gridfinity.perplexinglabs.com/
 
 ## Disclaimer
 
 I am not a professional 3D designer; these designs are a hobbyist effort.  
 I cannot provide troubleshooting for 3D prints.  
 Additionally, due to using a free Shapr3D license, I am unable to export `.STEP` files for further modification.
+
 
 
 
