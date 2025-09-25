@@ -27,12 +27,22 @@ Full license: https://creativecommons.org/licenses/by-nc/4.0/
 
 ## Contributing
 
-If you want to contribute new stands or improvements, please fork the repository and submit a pull request.  
-All contributions must comply with the CC BY-NC 4.0 license.
+If you want to contribute new stands or improvements, please submit your STL or 3MF files via a **GitHub Issue** in this repository.  
+
+- Create a new issue and attach your files.  
+- Clearly label the issue with your name or handle and a brief description of the design.  
+
+All contributions must comply with the **CC BY-NC 4.0 license**:  
+- Non-commercial use only  
+- Attribution must be given to the contributor and the original creator  
+
+Submitted designs will be reviewed and added to the repository periodically.
+
 
 ## Disclaimer
 
 I am not a professional 3D designer; these designs are a hobbyist effort.  
 I cannot provide troubleshooting for 3D prints.  
 Additionally, due to using a free Shapr3D license, I am unable to export `.STEP` files for further modification.
+
 
