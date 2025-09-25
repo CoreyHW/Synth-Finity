@@ -1,4 +1,4 @@
-# SynthFinity
+# Synth-Finity
 
 Modular stands and organization system, designed around the Gridfinity base system.
 
@@ -44,5 +44,6 @@ Submitted designs will be reviewed and added to the repository periodically.
 I am not a professional 3D designer; these designs are a hobbyist effort.  
 I cannot provide troubleshooting for 3D prints.  
 Additionally, due to using a free Shapr3D license, I am unable to export `.STEP` files for further modification.
+
 
 
