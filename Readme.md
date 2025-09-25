@@ -1,5 +1,7 @@
 # Synth-Finity
 
+![Logo](Media/Logo.png)
+
 Modular stands and organization system, designed around the Gridfinity base system.
 
 ## Overview
@@ -11,7 +13,7 @@ Files are organized into folders:
 - `Stands` – Synth, groovebox, and mixer stands  
 - `Utility` – Cable guides and organizational accessories  
 
-![Preview of SynthFinity stands](Preview.jpeg)
+![Preview of SynthFinity stands](Media/Preview.jpeg)
 
 ## Usage
 
@@ -44,6 +46,7 @@ Submitted designs will be reviewed and added to the repository periodically.
 I am not a professional 3D designer; these designs are a hobbyist effort.  
 I cannot provide troubleshooting for 3D prints.  
 Additionally, due to using a free Shapr3D license, I am unable to export `.STEP` files for further modification.
+
 
 
 
