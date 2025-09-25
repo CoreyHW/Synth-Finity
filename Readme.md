@@ -47,28 +47,29 @@ Full license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 ## Contributing
 
-If you want to contribute new stands or improvements, please submit your STL or 3MF files via a **GitHub Issue** in this repository.  
+If you want to contribute new stands or improvements, please submit your `.STL` or `.3MF` files via a **GitHub Issue** in this repository.  
 
 - Create a new issue and attach your files.  
 - Clearly label the issue with your name or handle and a brief description of the design.  
 
-All contributions MUST comply with the **CC BY-NC-SA 4.0 license**:  
+All contributions MUST comply with the **`CC BY-NC-SA 4.0 license`**:  
 - Non-commercial use only  
 - Attribution must be given to the contributor and the original creator  
 
 Submitted designs will be reviewed and added to the repository periodically.
 
 ## Resources 
-- Gridfinity Unofficial Wiki: https://gridfinity.xyz/
-- Gridfinity Generator: https://gridfinity.perplexinglabs.com/
+- [Gridfinity Unofficial Wiki:](https://gridfinity.xyz/)
+- [Gridfinity Generator: https:](//gridfinity.perplexinglabs.com/)
 
 ## Disclaimer
 
   - I am not a professional 3D designer; these designs are a hobbyist effort.  
   - I cannot provide troubleshooting for 3D prints.
-  - Additionally, due to using a free Shapr3D license, I am unable to export `.STEP` files for further modification.
+  - Due to using a free Shapr3D license, I am unable to export `.STEP` files for further modification.
   - **Use at your own risk:** These stands are designed for mini and portable music gear.
     - Full-size or heavy equipment may cause the stands to fail. The creator(s) is not responsible for any damage or injury resulting from use.
+
 
 
 
